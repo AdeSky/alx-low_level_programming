@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main -prints out random numbers and says wether it is negative or positive 
+ * main -prints out random numbers and says wether it is negative or positive
  *
  * Return: Always 0 (Success)
  */
