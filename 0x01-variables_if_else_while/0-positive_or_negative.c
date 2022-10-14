@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints a random number and states whetheri
- * it is positivie or negative
+ * main - Prints a random number and states whether it is positivie or negative
  *
  * Return: Always 0 (Success)
  */
@@ -23,8 +22,7 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-       	else
-	{
+       	else {
 		printf("%d is negative\n", n);
 	}
 	return (0);
