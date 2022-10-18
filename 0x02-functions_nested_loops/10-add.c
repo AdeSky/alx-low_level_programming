@@ -7,9 +7,5 @@
  */
 int add(int b, int f)
 {
-	int plus;
-	plus = (b + f);
-
-	_putchar(plus);
-	return (plus);
+	return (b +f);
 }
