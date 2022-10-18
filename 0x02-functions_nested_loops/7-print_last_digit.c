@@ -11,7 +11,7 @@ int print_last_digit(int num)
 
 	last_digit = (num % 10);
 
-	if (num < 0)
+	if (last_digit < 0)
 	{
 		num = (-1 * num);
 	}
